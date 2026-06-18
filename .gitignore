@@ -1,0 +1,11 @@
+node_modules
+dist
+dist-storybook
+storybook-static
+*.local
+.DS_Store
+coverage
+src/**/*.js
+src/**/*.d.ts
+src/**/*.d.ts.map
+!src/vite-env.d.ts
